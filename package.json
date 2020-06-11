@@ -1,0 +1,31 @@
+{
+  "name": "@devctrl/proto-home-misc",
+  "version": "1.0.0",
+  "description": "Devctrl protocols for mischome devices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cribe78/devctrl-proto-home-misc.git"
+  },
+  "keywords": [
+    "devctrl",
+    "iot"
+  ],
+  "author": "Chris Ribe",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cribe78/devctrl-proto-home-misc/issues"
+  },
+  "homepage": "https://github.com/cribe78/devctrl-proto-home-misc#readme",
+  "dependencies": {
+    "@devctrl/common": "^6.5.0",
+    "@devctrl/lib-communicator": "^4.1.4",
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.4"
+  }
+}
